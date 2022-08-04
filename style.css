@@ -1,0 +1,70 @@
+h1, h2, h3 {
+  font-family: 'Lato', sans-serif;
+}
+
+h1 {
+  color: #575F7D;
+  font-size: 32px;
+  font-weight: 900;
+}
+
+h2 {
+  color: pink;
+  font-size: 25px;
+  font-weight: 600;
+}
+
+body{
+  background: rgb(253, 253, 253);
+  color: pink;
+  font-family: 'Lato', sans-serif;
+  font-size: 17px;
+  line-height: 2;
+}
+
+.btn-pink {
+  background-color: rosybrown;
+  color: white;
+  padding: 15px 20px;
+  border-radius: 4px;
+  font-family: 'Work Sans', sans-serif;
+}
+
+a {
+  font-family: 'Roboto', sans-serif;
+  text-decoration: none;
+  color: rgb(109, 83, 83);
+  font-weight: 300;
+  font-size: 15px;
+}
+
+.btn-pink:hover {
+  background-color:black;
+}
+
+.img-circle{
+border-radius: 50%;
+}
+
+.card-white {
+  background-color: white;
+  padding: 40px;
+  box-shadow: 0px 10px 30px rgb(10 10 10 / 10%);
+  border-radius: 4px;
+  margin: 20px 0px;
+  text-align: center;
+}
+
+.list>li {
+  display: inline-block;
+  padding: 0px 20px;
+}
+
+.list {
+  list-style: none;
+  padding-left: 0px;
+}
+
+li a {
+  font-size:48px;
+}
